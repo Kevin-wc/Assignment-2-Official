@@ -1,0 +1,222 @@
+Sorting algorithm – Bubble sort
+Normal Sorted 100 elements in 0.17503529999999998 ms (avg)
+
+K Sorted 100 elements in 0.020087499999999998 ms (avg) 
+
+Normal Sorted 500 elements in 0.35847715 ms (avg)
+
+K Sorted 500 elements in 0.11870834999999999 ms (avg) 
+
+Normal Sorted 1000 elements in 0.6144293 ms (avg)
+
+K Sorted 1000 elements in 0.41658965 ms (avg) 
+
+Normal Sorted 2000 elements in 2.0522062500000002 ms (avg)
+
+K Sorted 2000 elements in 1.4624416 ms (avg) 
+
+Normal Sorted 5000 elements in 10.8048834 ms (avg)
+
+K Sorted 5000 elements in 8.442881199999999 ms (avg) 
+
+Normal Sorted 10000 elements in 43.40095615 ms (avg)
+
+K Sorted 10000 elements in 38.948289499999994 ms (avg) 
+
+Normal Sorted 20000 elements in 334.7888729 ms (avg)
+
+K Sorted 20000 elements in 176.28519364999997 ms (avg) 
+
+Normal Sorted 75000 elements in 6343.45555405 ms (avg)
+
+K Sorted 75000 elements in 2839.3399916000003 ms (avg) 
+
+Normal Sorted 150000 elements in 25585.0347187 ms (avg)
+
+K Sorted 150000 elements in 11095.7233208 ms (avg) 
+
+Sorting algorithm – Insertion sort
+Normal Sorted 100 elements in 0.5794395499999999 ms (avg)
+
+K Sorted 100 elements in 0.009508349999999995 ms (avg) 
+
+Normal Sorted 500 elements in 0.014001999999999997 ms (avg)
+
+K Sorted 500 elements in 0.014229250000000002 ms (avg) 
+
+Normal Sorted 1000 elements in 0.027887300000000004 ms (avg)
+
+K Sorted 1000 elements in 0.0323521 ms (avg) 
+
+Normal Sorted 2000 elements in 0.016922850000000003 ms (avg)
+
+K Sorted 2000 elements in 0.006722800000000003 ms (avg) 
+
+Normal Sorted 5000 elements in 0.014604200000000001 ms (avg)
+
+K Sorted 5000 elements in 0.014549950000000002 ms (avg) 
+
+Normal Sorted 10000 elements in 0.028872799999999997 ms (avg)
+
+K Sorted 10000 elements in 0.02895625 ms (avg) 
+
+Normal Sorted 20000 elements in 0.006637400000000002 ms (avg)
+
+K Sorted 20000 elements in 0.0186022 ms (avg) 
+
+Normal Sorted 75000 elements in 0.009047949999999999 ms (avg)
+
+K Sorted 75000 elements in 0.02065615 ms (avg) 
+
+Normal Sorted 150000 elements in 0.016533400000000004 ms (avg)
+
+K Sorted 150000 elements in 0.04291035000000001 ms (avg) 
+
+Sorting algorithm – Selection sort
+Normal Sorted 100 elements in 0.11861035 ms (avg)
+
+K Sorted 100 elements in 0.02121245 ms (avg) 
+
+Normal Sorted 500 elements in 0.19688535 ms (avg)
+
+K Sorted 500 elements in 0.15590620000000002 ms (avg) 
+
+Normal Sorted 1000 elements in 0.4162271500000001 ms (avg)
+
+K Sorted 1000 elements in 0.40640204999999996 ms (avg) 
+
+Normal Sorted 2000 elements in 1.6174395500000003 ms (avg)
+
+K Sorted 2000 elements in 1.61953955 ms (avg) 
+
+Normal Sorted 5000 elements in 9.975995750000003 ms (avg)
+
+K Sorted 5000 elements in 9.9675438 ms (avg) 
+
+Normal Sorted 10000 elements in 39.392695950000004 ms (avg)
+
+K Sorted 10000 elements in 39.4017999 ms (avg) 
+
+Normal Sorted 20000 elements in 158.5661187 ms (avg)
+
+K Sorted 20000 elements in 157.12268124999997 ms (avg) 
+
+Normal Sorted 75000 elements in 2296.6932582999993 ms (avg)
+
+K Sorted 75000 elements in 2222.1034437500007 ms (avg) 
+
+Normal Sorted 150000 elements in 9009.93501255 ms (avg)
+
+K Sorted 150000 elements in 9043.072585400001 ms (avg) 
+
+Sorting algorithm – Shell sort
+Normal Sorted 100 elements in 0.06972705000000003 ms (avg)
+
+K Sorted 100 elements in 0.03688955 ms (avg) 
+
+Normal Sorted 500 elements in 0.14718114999999998 ms (avg)
+
+K Sorted 500 elements in 0.05296259999999999 ms (avg) 
+
+Normal Sorted 1000 elements in 0.09196244999999997 ms (avg)
+
+K Sorted 1000 elements in 0.07338324999999998 ms (avg) 
+
+Normal Sorted 2000 elements in 0.20021045 ms (avg)
+
+K Sorted 2000 elements in 0.16853330000000002 ms (avg) 
+
+Normal Sorted 5000 elements in 0.6864480000000002 ms (avg)
+
+K Sorted 5000 elements in 0.43444604999999986 ms (avg) 
+
+Normal Sorted 10000 elements in 0.83096445 ms (avg)
+
+K Sorted 10000 elements in 0.7339209499999999 ms (avg) 
+
+Normal Sorted 20000 elements in 1.8153375 ms (avg)
+
+K Sorted 20000 elements in 1.5936876 ms (avg) 
+
+Normal Sorted 75000 elements in 7.9743229 ms (avg)
+
+K Sorted 75000 elements in 7.004285299999999 ms (avg) 
+
+Normal Sorted 150000 elements in 17.559902049999998 ms (avg)
+
+K Sorted 150000 elements in 15.36823315 ms (avg) 
+
+Sorting algorithm – Quick sort
+Normal Sorted 100 elements in 0.055741700000000005 ms (avg)
+
+K Sorted 100 elements in 0.004899950000000002 ms (avg) 
+
+Normal Sorted 500 elements in 0.06196879999999999 ms (avg)
+
+K Sorted 500 elements in 0.031000049999999994 ms (avg) 
+
+Normal Sorted 1000 elements in 0.0770457 ms (avg)
+
+K Sorted 1000 elements in 0.0897124 ms (avg) 
+
+Normal Sorted 2000 elements in 0.0875084 ms (avg)
+
+K Sorted 2000 elements in 0.09214995 ms (avg) 
+
+Normal Sorted 5000 elements in 0.35044165000000005 ms (avg)
+
+K Sorted 5000 elements in 0.27488539999999995 ms (avg) 
+
+Normal Sorted 10000 elements in 0.5890646499999999 ms (avg)
+
+K Sorted 10000 elements in 0.5988062000000001 ms (avg) 
+
+Normal Sorted 20000 elements in 1.08593945 ms (avg)
+
+K Sorted 20000 elements in 1.20356875 ms (avg) 
+
+Normal Sorted 75000 elements in 4.525179150000001 ms (avg)
+
+K Sorted 75000 elements in 5.130087399999999 ms (avg) 
+
+Normal Sorted 150000 elements in 9.615368650000002 ms (avg)
+
+K Sorted 150000 elements in 10.7649854 ms (avg) 
+
+Sorting algorithm – Merge sort
+Normal Sorted 100 elements in 0.06657495000000001 ms (avg)
+
+K Sorted 100 elements in 0.007360300000000002 ms (avg) 
+
+Normal Sorted 500 elements in 0.17404179999999997 ms (avg)
+
+K Sorted 500 elements in 0.07137090000000001 ms (avg) 
+
+Normal Sorted 1000 elements in 0.10528749999999998 ms (avg)
+
+K Sorted 1000 elements in 0.09763725 ms (avg) 
+
+Normal Sorted 2000 elements in 0.30935224999999994 ms (avg)
+
+K Sorted 2000 elements in 0.2568208 ms (avg) 
+
+Normal Sorted 5000 elements in 0.4809105000000001 ms (avg)
+
+K Sorted 5000 elements in 0.37832295 ms (avg) 
+
+Normal Sorted 10000 elements in 1.2377748999999998 ms (avg)
+
+K Sorted 10000 elements in 1.18892285 ms (avg) 
+
+Normal Sorted 20000 elements in 2.3062832999999996 ms (avg)
+
+K Sorted 20000 elements in 1.7295459000000002 ms (avg) 
+
+Normal Sorted 75000 elements in 7.498133350000001 ms (avg)
+
+K Sorted 75000 elements in 8.6311584 ms (avg) 
+
+Normal Sorted 150000 elements in 16.2566124 ms (avg)
+
+K Sorted 150000 elements in 14.772248000000001 ms (avg) 
+
